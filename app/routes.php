@@ -20,6 +20,8 @@ Route::controller('gallery', 'GalleryController');
 
 Route::controller('contact', 'ContactController');
 
+Route::controller('deploy', 'ServerController');
+
 Route::controller('/', 'HomeController');
 
 
