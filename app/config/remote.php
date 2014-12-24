@@ -29,9 +29,9 @@ return array(
 	'connections' => array(
 
 		'production' => array(
-			'host'      => '',
-			'username'  => '',
-			'password'  => '',
+			'host'      => 'www.yorubadescendants.com',
+			'username'  => 'yorubptgus',
+			'password'  => 'SXIi1u13',
 			'key'       => '',
 			'keyphrase' => '',
 			'root'      => '/var/www',
