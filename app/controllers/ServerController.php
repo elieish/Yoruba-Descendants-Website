@@ -18,7 +18,7 @@ class ServerController extends BaseController {
     public function getIndex()
     {
         SSH::into('production')->run(array(
-        'cd ~/public_html/Yorubawebsite',
+        'cd ~/public_html/yorubawebsite',
         'git pull origin master'
         ), function($line){
 
