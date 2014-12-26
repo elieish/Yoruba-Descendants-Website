@@ -22,6 +22,8 @@ Route::controller('contact', 'ContactController');
 
 Route::controller('deploy', 'ServerController');
 
+Route::controller('login', 'LoginController');
+
 Route::controller('/', 'HomeController');
 
 

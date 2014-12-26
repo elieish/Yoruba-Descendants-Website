@@ -57,7 +57,7 @@
                     <li class="devider">&nbsp;</li>
                     <li><a href="page_faq.html" class="login-btn">Help</a></li>
                     <li class="devider">&nbsp;</li>
-                    <li><a href="page_login.html" class="login-btn">Login</a></li>
+                    <li><a href="login" class="login-btn">Login</a></li>
                 </ul>
             </div>
         </div>
