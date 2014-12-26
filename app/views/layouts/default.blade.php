@@ -42,7 +42,7 @@
         <div class="row">
             <div class="col-md-6">
                 <ul class="loginbar inline">
-                    <li><a href="mailto:info@anybiz.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
+                    <li><a href="mailto:info@yorubadescendats.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
                     <li><a><i class="icon-phone-sign"></i> 000 0000 0000</a></li>
                 </ul>
             </div>
