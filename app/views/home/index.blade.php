@@ -5,23 +5,23 @@
 <div class="slider-inner">
     <div id="da-slider" class="da-slider">
         <div class="da-slide">
-            <h2><i>National Association of</i> <br /> <i>Yoruba Descendants</i> <br /> <i>of Southern Africa</i></h2>
+            <h2><i>National Association of</i> <br /> <i>Yorùbá Descendants</i> <br /> <i>of Southern Africa</i></h2>
             <p><i>Egbe Omo Yoruba</i></p>
             <div class="da-img"><img src="assets/plugins/parallax-slider/img/logo.png" alt="" /></div>
         </div>
         <div class="da-slide">
-            <!-- <h2><i>RESPONSIVE VIDEO</i> <br /> <i>SUPPORT AND</i> <br /> <i>MANY MORE</i></h2>
-            <p><i>Lorem ipsum dolor amet</i> <br /> <i>tempor incididunt ut</i></p>
+            <h2><i>Yorùbá constitute</i> <br /> <i>over 35 million</i> <br /> <i> population in total</i></h2>
+            <p><i></i> <br /> <i></i></p>
             <div class="da-img span6">
                 <div class="span6">
-                    <iframe src="http://player.vimeo.com/video/47911018" width="100%" height="320" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+                    <iframe src="" width="100%" height="320" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
                 </div>
-            </div> -->
+            </div>
         </div>
         <div class="da-slide">
-          <!--   <h2><i>USING BEST WEB</i> <br /> <i>SOLUTIONS WITH</i> <br /> <i>HTML5/CSS3</i></h2>
-            <p><i>Lorem ipsum dolor amet</i> <br /> <i>tempor incididunt ut</i> <br /> <i>veniam omnis </i></p>
-            <div class="da-img"><img src="assets/plugins/parallax-slider/img/html5andcss3.png" alt="image01" /></div> -->
+            <h2><i></i> <br /> <i>one of</i> <br /> <i>the largest ethnic</i><br/><i>groups in Africa</i></h2>
+            <p><i></i> <br /> <i></i> <br /> <i></i></p>
+            <!-- <div class="da-img"><img src="assets/plugins/parallax-slider/img/html5andcss3.png" alt="image01" /></div> -->
         </div>
         <nav class="da-arrows">
             <span class="da-arrows-prev"></span>
