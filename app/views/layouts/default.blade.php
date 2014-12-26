@@ -36,19 +36,31 @@
 
 <!--=== Top ===-->
 <div class="top">
+
     <div class="container">
-        <ul class="loginbar pull-right">
-            <li><i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i></a>
-                <ul class="nav-list">
-                    <li class="active"><a href="#">English</a> <i class="icon-ok"></i></li>
-                    <li><a href="#">Yoruba</a></li>
+
+        <div class="row">
+            <div class="col-md-6">
+                <ul class="loginbar inline">
+                    <li><a href="mailto:info@anybiz.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
+                    <li><a><i class="icon-phone-sign"></i> 000 0000 0000</a></li>
                 </ul>
-            </li>
-            <li class="devider">&nbsp;</li>
-            <li><a href="page_faq.html" class="login-btn">Help</a></li>
-            <li class="devider">&nbsp;</li>
-            <li><a href="page_login.html" class="login-btn">Login</a></li>
-        </ul>
+            </div>
+            <div class="col-md-6">
+                <ul class="loginbar pull-right">
+                    <li><i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i></a>
+                        <ul class="nav-list">
+                            <li class="active"><a href="#">English</a> <i class="icon-ok"></i></li>
+                            <li><a href="#">Yoruba</a></li>
+                        </ul>
+                    </li>
+                    <li class="devider">&nbsp;</li>
+                    <li><a href="page_faq.html" class="login-btn">Help</a></li>
+                    <li class="devider">&nbsp;</li>
+                    <li><a href="page_login.html" class="login-btn">Login</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div><!--/top-->
 <!--=== End Top ===-->
@@ -58,8 +70,9 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo">
-            <!-- <a href="index.html"><img id="logo-header" src="assets/img/logo1.png" alt="Logo" height="30px" /></a> -->
-        </div><!-- /logo -->
+            <!-- <a href="index.html"><img id="logo-header" src="assets/img/logo1.png" alt="Logo" /></a> -->
+        <!-- /logo -->
+        </div>
 
         <!-- Menu -->
         <div class="navbar">
