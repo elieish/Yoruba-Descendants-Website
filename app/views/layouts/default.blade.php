@@ -70,7 +70,8 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo">
-            <!-- <a href="index.html"><img id="logo-header" src="assets/img/logo1.png" alt="Logo" /></a> -->
+            <a href="index.html"><img id="logo-header" src="assets/img/nigeria.png" alt="Logo" /></a>
+            <a href="index.html"><img id="logo-header" src="assets/img/southafrica.jpeg" alt="Logo" /></a>
         <!-- /logo -->
         </div>
 
