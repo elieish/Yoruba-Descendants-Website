@@ -82,6 +82,7 @@
                 </div>
             </div> -->
         </div><!--/span4-->
+
     </div><!--/row-fluid-->
     <!-- //End Information Blokcs -->
 
