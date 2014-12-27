@@ -1,6 +1,6 @@
 @extends('layouts.default')
 @section('content')
-
+<br>
 <div class="container">
 <!-- Carousel -->
 <div class="row-fluid">
@@ -8,10 +8,8 @@
             <div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
                   <div class="item active">
-                    <img src="assets/img/carousel/4.jpg" alt="" />
-                    <div class="carousel-caption">
-                      <p></p>
-                    </div>
+                    <img src="assets/img/carousel/7.png" alt="" />
+
                   </div>
                   <div class="item">
                     <img src="assets/img/carousel/2.jpg" alt="" />
@@ -49,7 +47,6 @@
         </div>
 </div>
 </div>
-
 
 <!--/Carousel -->
 <div class="container">

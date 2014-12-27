@@ -1862,3 +1862,9 @@ i.style-switcher-btn-option:hover {
 .carousel-inner .item {
     height: 315px !important;
 }
+.demo {
+	font-size: 19px !important;
+	color: red !important;
+	text-align: center !important;
+	font-weight: bold !important;
+}

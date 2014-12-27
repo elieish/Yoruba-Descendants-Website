@@ -31,6 +31,7 @@
     {{ HTML::style('assets/css/headers/header2.css') }}
     <link rel="stylesheet" href="assets/css/themes/default.css" id="style_color" />
 
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
 <body>
@@ -47,7 +48,10 @@
                     <li><a href="mailto:info@yorubadescendats.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
                 </ul>
             </div>
-            <div class="span8">
+            <div class="span6 demo">
+                NATIONAL ASSOCIATION OF YORUBA DESCENDANTS SOUTHERN AFRICA
+            </div>
+            <div class="span2">
                 <ul class="loginbar">
                     <li><!-- i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i> --></a>
                         <ul class="nav-list">
@@ -170,14 +174,20 @@
 <script type="text/javascript" src="assets/plugins/parallax-slider/js/modernizr.js"></script>
 <script type="text/javascript" src="assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
 <script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
+<script type="text/javascript" src="assets/js/jquery.auderoFlashingText.js"></script>
+
 <!-- JS Page Level -->
 <script type="text/javascript" src="assets/js/app.js"></script>
 <script type="text/javascript" src="assets/js/pages/index.js"></script>
+<script type="text/javascript" src="assets/js/jquery.modern-blink.js"></script>
 <script type="text/javascript">
     jQuery(document).ready(function() {
         App.init();
         App.initSliders();
         Index.initParallaxSlider();
+        $('.demo').modernBlink({
+            duration:3000,
+        });
     });
 </script>
 </body>
