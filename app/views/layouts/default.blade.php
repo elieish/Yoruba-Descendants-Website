@@ -28,13 +28,9 @@
     <!-- CSS Theme -->
     {{ HTML::style('assets/plugins/flexslider/flexslider.css') }}
     {{ HTML::style('assets/plugins/parallax-slider/css/parallax-slider.css') }}
+    {{ HTML::style('assets/css/headers/header2.css') }}
     <link rel="stylesheet" href="assets/css/themes/default.css" id="style_color" />
 
-    <link href='bower_components/fullcalendar/dist/fullcalendar.css' rel='stylesheet' />
-    <link href='../fullcalendar.print.css' rel='stylesheet' media='print' />
-    <script src='../lib/moment.min.js'></script>
-    <script src='../lib/jquery.min.js'></script>
-    <script src='../fullcalendar.min.js'></script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
 <body>
@@ -44,16 +40,17 @@
 
     <div class="container">
 
-        <div class="row">
-            <div class="col-md-6">
-                <ul class="loginbar inline">
+
+        <div class="row-fluid">
+            <div class="span4">
+                <ul class="loginbar">
                     <li><a href="mailto:info@yorubadescendats.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
                     <li><a><i class="icon-phone-sign"></i> 000 0000 0000</a></li>
                 </ul>
             </div>
-            <div class="col-md-6">
-                <ul class="loginbar pull-right">
-                    <li><i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i></a>
+            <div class="span8">
+                <ul class="loginbar">
+                    <li><!-- i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i> --></a>
                         <ul class="nav-list">
                             <li class="active"><a href="#">English</a> <i class="icon-ok"></i></li>
                             <li><a href="#">Yoruba</a></li>
@@ -75,8 +72,6 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo">
-            <a href="index.html"><img id="logo-header" src="assets/img/nigeria.png" alt="Logo" /></a>
-            <a href="index.html"><img id="logo-header" src="assets/img/southafrica.jpeg" alt="Logo" /></a>
         <!-- /logo -->
         </div>
 
@@ -122,7 +117,7 @@
                             </a>
 
                         </li>
-                        <li><a class="search"><i class="icon-search search-btn"></i></a></li>
+
                     </ul>
                     <div class="search-open">
                         <div class="input-append">

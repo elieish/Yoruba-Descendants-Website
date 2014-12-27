@@ -1,37 +1,56 @@
 @extends('layouts.default')
 @section('content')
 
-    <!--=== Slider ===-->
-<div class="slider-inner">
-    <div id="da-slider" class="da-slider">
-        <div class="da-slide">
-            <h2><i>National Association of</i> <br /> <i>Yorùbá Descendants</i> <br /> <i>of Southern Africa</i></h2>
-            <p><i>Egbe Omo Yoruba</i></p>
-            <div class="da-img"><img src="assets/plugins/parallax-slider/img/logo.png" alt="" /></div>
-        </div>
-        <div class="da-slide">
-            <h2><i>Yorùbá constitute</i> <br /> <i>over 35 million</i> <br /> <i> population in total</i></h2>
-            <p><i></i> <br /> <i></i></p>
-            <div class="da-img span6">
-                <div class="span6">
-                    <iframe src="" width="100%" height="320" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<div class="container">
+<!-- Carousel -->
+<div class="row-fluid">
+        <div class="span4">
+            <div id="myCarousel" class="carousel slide">
+                <div class="carousel-inner">
+                  <div class="item active">
+                    <img src="assets/img/carousel/4.jpg" alt="" />
+                    <div class="carousel-caption">
+                      <p></p>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <img src="assets/img/carousel/2.jpg" alt="" />
+                    <div class="carousel-caption">
+                      <p></p>
+                    </div>
+                  </div>
+
+                   <div class="item">
+                    <img src="assets/img/carousel/6.png" alt="" />
+                    <div class="carousel-caption">
+                      <p></p>
+                    </div>
+                  </div>
+                   <div class="item">
+                    <img src="assets/img/carousel/5.jpg" alt="" />
+                    <div class="carousel-caption">
+                      <p></p>
+                    </div>
+                  </div>
                 </div>
             </div>
-        </div>
-        <div class="da-slide">
-            <h2><i></i> <br /> <i>one of</i> <br /> <i>the largest ethnic</i><br/><i>groups in Africa</i></h2>
-            <p><i></i> <br /> <i></i> <br /> <i></i></p>
-            <!-- <div class="da-img"><img src="assets/plugins/parallax-slider/img/html5andcss3.png" alt="image01" /></div> -->
-        </div>
-        <nav class="da-arrows">
-            <span class="da-arrows-prev"></span>
-            <span class="da-arrows-next"></span>
-        </nav>
-    </div><!--/da-slider-->
-</div><!--/slider-->
-<!--=== End Slider ===-->
-<div class="container">
+    </div>
 
+        <div class="span4">
+            <iframe width="380" height="315" src="//www.youtube.com/embed/sRgwsxul4Zk" frameborder="0" allowfullscreen></iframe>
+        </div>
+
+        <div class="span4">
+            <iframe width="380" height="315" src="//www.youtube.com/embed/KnGPtahOlx0" frameborder="0" allowfullscreen></iframe>
+        </div>
+</div>
+</div>
+
+
+<!--/Carousel -->
+
+
+<div class="container">
     <!-- Information Blokcs -->
     <div class="row-fluid margin-bottom-20">
         <!-- Who We Are -->
@@ -54,27 +73,7 @@
         <!-- Latest Shots -->
         <div class="span4">
             <div class="headline"><h3>Usefull Links</h3></div>
-            <!-- <div id="myCarousel" class="carousel slide">
-                <div class="carousel-inner">
-                  <div class="item active">
-                    <img src="assets/img/carousel/languages.png" alt="" height="400px" />
-                    <div class="carousel-caption">
-                      <p>Our Languages</p>
-                    </div>
-                  </div>
-                  <div class="item">
-                    <img src="assets/img/carousel/logo.png" alt="" />
-                    <div class="carousel-caption">
-                      <p>Our Logo</p>
-                    </div>
-                  </div>
-                </div>
 
-                <div class="carousel-arrow">
-                    <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="icon-angle-left"></i></a>
-                    <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="icon-angle-right"></i></a>
-                </div>
-            </div> -->
         </div><!--/span4-->
 
     </div><!--/row-fluid-->
