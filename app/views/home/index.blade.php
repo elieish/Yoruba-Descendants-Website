@@ -33,6 +33,10 @@
                     </div>
                   </div>
                 </div>
+                  <div class="carousel-arrow">
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev"><i class="icon-angle-left"></i></a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next"><i class="icon-angle-right"></i></a>
+                </div>
             </div>
     </div>
 
@@ -48,14 +52,13 @@
 
 
 <!--/Carousel -->
-
-
 <div class="container">
     <!-- Information Blokcs -->
     <div class="row-fluid margin-bottom-20">
         <!-- Who We Are -->
         <div class="span8">
             <div class="headline"><h3>Ekaabo Welcome</h3></div>
+             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/1.jpg" alt="" />
 
             <blockquote class="hero-unify">
                 <p>We, the Yorubas in the Southern Africa, desiring to trust and create a common fellowship,
@@ -67,6 +70,8 @@
                     <li><i class="icon-ok color-green"></i>To strenghten our collaboration and establish new objectives and priorities for the promotion of our economic,social,cultural,educational and political development</li>
                 </ul>
                 <p>We hereby constiture National Association of Yoruba Descendants of Southern African(Egbe Omo Yoruba)</p>
+            <small>National President<br>
+                   Prof . Akin Bomigboye</small>
             </blockquote>
         </div><!--/span8-->
 
