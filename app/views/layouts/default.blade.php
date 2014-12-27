@@ -23,14 +23,19 @@
     {{ HTML::style('assets/plugins/font-awesome/css/font-awesome.css') }}
     {{ HTML::style('assets/plugins/flexslider/flexslider.css') }}
     {{ HTML::style('assets/plugins/parallax-slider/css/parallax-slider.css') }}
-
-    <link rel="stylesheet" href="assets/plugins/countdown/css/countdown.css" />
+    {{ HTML::style('assets/plugins/countdown/css/countdown.css') }}
 
     <!-- CSS Theme -->
     {{ HTML::style('assets/plugins/flexslider/flexslider.css') }}
     {{ HTML::style('assets/plugins/parallax-slider/css/parallax-slider.css') }}
     <link rel="stylesheet" href="assets/css/themes/default.css" id="style_color" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+    <link href='bower_components/fullcalendar/dist/fullcalendar.css' rel='stylesheet' />
+    <link href='../fullcalendar.print.css' rel='stylesheet' media='print' />
+    <script src='../lib/moment.min.js'></script>
+    <script src='../lib/jquery.min.js'></script>
+    <script src='../fullcalendar.min.js'></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
 <body>
 
@@ -107,6 +112,12 @@
                         </li>
                         <li {{ (Request::is('contact') ? 'class="active"' : '') }}>
                             <a href="contact">Contact
+
+                            </a>
+
+                        </li>
+                         <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
+                            <a href="executive">National Executive
 
                             </a>
 

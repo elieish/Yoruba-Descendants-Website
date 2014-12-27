@@ -24,6 +24,8 @@ Route::controller('deploy', 'ServerController');
 
 Route::controller('login', 'LoginController');
 
+Route::controller('executive', 'ExecutiveController');
+
 Route::controller('/', 'HomeController');
 
 

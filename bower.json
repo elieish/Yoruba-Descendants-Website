@@ -1,0 +1,19 @@
+{
+  "name": "yorubadescendants",
+  "authors": [
+    "Elie Ishimwe <elieish@gmail.com>"
+  ],
+  "description": "yorubadescendants",
+  "homepage": "http://www.yorubadescendants.com/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fullcalendar" : "git://github.com/arshaw/fullcalendar.git"
+  }
+}
