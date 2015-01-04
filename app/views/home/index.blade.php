@@ -81,7 +81,13 @@
 
     </div><!--/row-fluid-->
     <!-- //End Information Blokcs -->
-    <div class="row-fluid">
+    <div class="row-fluid margin-bottom-20">
+        <div class="span7">
+        </div>
+        <div class="span5">
+          <div class="headline"><h3>Currency Converter</h3></div>
+          <div id="currency_widget_holder"></div>
+        </div>
     </div>
 
 

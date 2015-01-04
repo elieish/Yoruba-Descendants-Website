@@ -38,6 +38,11 @@
     <!-- CSS Project -->
      {{ HTML::style('assets/css/project.css') }}
 
+    <!-- Currency Converter -->
+    {{ HTML::style('assets/plugins/currency_widget/css/ui-lightness/jquery-ui-1.8.2.custom.css') }}
+    {{ HTML::style('assets/plugins/currency_widget/css/currency_widget.css') }}
+
+
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
@@ -199,8 +204,13 @@
 <!-- JS Full Calendar -->
 <script type="text/javascript" src="assets/bower_components/fullcalendar/dist/fullcalendar.min.js"></script>
 
+<!-- JS Currency Converter -->
+<script type="text/javascript" src="assets/plugins/currency_widget/js/jquery.currency_widget.js"></script>
+
 <!-- JS Project -->
 <script type="text/javascript" src="assets/js/project.js"></script>
+
+
 
 </body>
 </html>
