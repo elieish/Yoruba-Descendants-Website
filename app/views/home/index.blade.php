@@ -39,11 +39,11 @@
     </div>
 
         <div class="span4">
-            <iframe width="380" height="315" src="//www.youtube.com/embed/sRgwsxul4Zk" frameborder="0" allowfullscreen></iframe>
+            <iframe width="350" height="315" src="//www.youtube.com/embed/sRgwsxul4Zk" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="span4">
-            <iframe width="380" height="315" src="//www.youtube.com/embed/KnGPtahOlx0" frameborder="0" allowfullscreen></iframe>
+            <iframe width="350" height="315" src="//www.youtube.com/embed/KnGPtahOlx0" frameborder="0" allowfullscreen></iframe>
         </div>
 </div>
 </div>
