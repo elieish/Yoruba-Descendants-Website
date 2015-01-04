@@ -1,0 +1,7 @@
+.fc-today{
+   background-color: green !important;
+}
+
+#calendar .fc-event{
+    box-shadow: 2px 2px 2px #706868;
+}

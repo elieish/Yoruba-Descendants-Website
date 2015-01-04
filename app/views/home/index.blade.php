@@ -74,7 +74,8 @@
 
         <!-- Latest Shots -->
         <div class="span4">
-            <div class="headline"><h3>Usefull Links</h3></div>
+            <div class="headline"><h3>Upcoming Events</h3></div>
+            <div id='calendar'></div>
 
         </div><!--/span4-->
 

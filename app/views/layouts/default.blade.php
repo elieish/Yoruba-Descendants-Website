@@ -31,6 +31,13 @@
     {{ HTML::style('assets/css/headers/header2.css') }}
     <link rel="stylesheet" href="assets/css/themes/default.css" id="style_color" />
 
+    <!--CSS Fullcalendar -->
+    {{ HTML::style('assets/bower_components/fullcalendar/dist/fullcalendar.min.css') }}
+    {{ HTML::style('assets/bower_components/fullcalendar/dist/fullcalendar.print.css') }}
+
+    <!-- CSS Project -->
+     {{ HTML::style('assets/css/project.css') }}
+
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
@@ -180,15 +187,15 @@
 <script type="text/javascript" src="assets/js/app.js"></script>
 <script type="text/javascript" src="assets/js/pages/index.js"></script>
 <script type="text/javascript" src="assets/js/jquery.modern-blink.js"></script>
-<script type="text/javascript">
-    jQuery(document).ready(function() {
-        App.init();
-        App.initSliders();
-        Index.initParallaxSlider();
-        $('.demo').modernBlink({
-            duration:3000,
-        });
-    });
-</script>
+
+<!-- JS Moment -->
+<script type="text/javascript" src="assets/bower_components/moment/moment.js"></script>
+
+<!-- JS Full Calendar -->
+<script type="text/javascript" src="assets/bower_components/fullcalendar/dist/fullcalendar.min.js"></script>
+
+<!-- JS Project -->
+<script type="text/javascript" src="assets/js/project.js"></script>
+
 </body>
 </html>
