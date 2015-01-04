@@ -53,7 +53,7 @@
     <!-- Information Blokcs -->
     <div class="row-fluid margin-bottom-20">
         <!-- Who We Are -->
-        <div class="span8">
+        <div class="span7">
             <div class="headline"><h3>Ekaabo Welcome</h3></div>
              <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/1.jpg" alt="" />
 
@@ -70,10 +70,10 @@
             <small>National President<br>
                    Prof . Akin Bomigboye</small>
             </blockquote>
-        </div><!--/span8-->
+        </div><!--/span8--
 
         <!-- Latest Shots -->
-        <div class="span4">
+        <div class="span5">
             <div class="headline"><h3>Upcoming Events</h3></div>
             <div id='calendar'></div>
 
@@ -81,6 +81,8 @@
 
     </div><!--/row-fluid-->
     <!-- //End Information Blokcs -->
+    <div class="row-fluid">
+    </div>
 
 
 </div><!--/container-->

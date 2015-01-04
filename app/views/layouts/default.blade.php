@@ -32,8 +32,8 @@
     <link rel="stylesheet" href="assets/css/themes/default.css" id="style_color" />
 
     <!--CSS Fullcalendar -->
-    {{ HTML::style('assets/bower_components/fullcalendar/dist/fullcalendar.min.css') }}
-    {{ HTML::style('assets/bower_components/fullcalendar/dist/fullcalendar.print.css') }}
+    {{ HTML::style('assets/bower_components/fullcalendar/dist/fullcalendar.css') }}
+    <link href='assets/bower_components/fullcalendar/dist/fullcalendar.print.css' rel='stylesheet' media='print' />
 
     <!-- CSS Project -->
      {{ HTML::style('assets/css/project.css') }}
@@ -172,8 +172,16 @@
 </div><!--/copyright-->
 <!--=== End Copyright ===-->
 
+<!-- JS Moment -->
+<script type="text/javascript" src="assets/bower_components/moment/moment.js"></script>
+
+<!--JS Jquery -->
+<script type="text/javascript" src="assets/bower_components/jquery/dist/jquery.min.js"></script>
+
+<!--JS Jquery Migrate -->
+<script src="assets/bower_components/jquery/dist/jquery-migrate-1.2.1.js"></script>
+
 <!-- JS Global Compulsory -->
-<script type="text/javascript" src="assets/js/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <!-- JS Implementing Plugins -->
@@ -187,9 +195,6 @@
 <script type="text/javascript" src="assets/js/app.js"></script>
 <script type="text/javascript" src="assets/js/pages/index.js"></script>
 <script type="text/javascript" src="assets/js/jquery.modern-blink.js"></script>
-
-<!-- JS Moment -->
-<script type="text/javascript" src="assets/bower_components/moment/moment.js"></script>
 
 <!-- JS Full Calendar -->
 <script type="text/javascript" src="assets/bower_components/fullcalendar/dist/fullcalendar.min.js"></script>
