@@ -42,7 +42,8 @@
     {{ HTML::style('assets/plugins/currency_widget/css/ui-lightness/jquery-ui-1.8.2.custom.css') }}
     {{ HTML::style('assets/plugins/currency_widget/css/currency_widget.css') }}
 
-
+    <!-- Time Widget -->
+    {{ HTML::style('assets/plugins/jQuery-Clock-Plugin-master/jqClock.css') }}
 
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
 
@@ -86,8 +87,8 @@
 <div class="header">
     <div class="container">
         <!-- Logo -->
-        <div class="logo">
-        <!-- /logo -->
+        <div class="">
+            <div id="clock1"></div>
         </div>
 
         <!-- Menu -->
@@ -128,6 +129,12 @@
                         </li>
                          <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
                             <a href="executive">National Executive
+
+                            </a>
+
+                        </li>
+                        <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
+                            <a href="executive">Forum
 
                             </a>
 
@@ -210,6 +217,8 @@
 <!-- JS Project -->
 <script type="text/javascript" src="assets/js/project.js"></script>
 
+<!-- JS Jquery Clock Plugin -->
+<script type="text/javascript" src="assets/plugins/jQuery-Clock-Plugin-master/jqClock.js"></script>
 
 
 </body>

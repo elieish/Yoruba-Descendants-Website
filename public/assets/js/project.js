@@ -56,4 +56,6 @@
     $.currency_widget.defaults.amount = '1';
     $('#currency_widget_holder').currency_widget();
 
+    $("#clock1").clock();
+
     });
