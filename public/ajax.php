@@ -1,9 +1,18 @@
 <?php
 
-header('Content-Type: text/plain');
 $amount = $_GET['amount'];
 $source_currency = $_GET['source_currency'];
 $target_currency = $_GET['target_currency'];
+$url = 'http://finance.yahoo.com/d/quotes.csv?e=.csv&f=sl1d1t1&s='. $source_currency . $target_currency .'=X';
+$handle = @fopen($url, 'r');
 
-$ex_rate = floatval(file_get_contents('http://download.finance.yahoo.com/d/quotes.csv?s='.$source_currency.$target_currency.'=X&f=l1'));
-echo round($ex_rate*$amount, 2);
+if ($handle) {
+    $result = fgets($handle, 4096);
+    fclose($handle);
+}
+$allData = explode(',',$result); /* Get all the contents to an array */
+$value = $allData[1];
+
+echo round($value*$amount, 2);
+
+
