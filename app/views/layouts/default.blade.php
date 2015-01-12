@@ -88,7 +88,9 @@
     <div class="container">
         <!-- Logo -->
         <div class="">
-            <div id="clock1"></div>
+            <!--<div id="clock1"></div> -->
+            <div style="margin: 15px 0px 0px; display: inline-block; text-align: center; width: 200px;"><noscript><div style="display: inline-block; padding: 2px 4px; margin: 0px 0px 5px; border: 1px solid rgb(204, 204, 204); text-align: center; background-color: rgb(88, 95, 105);"><a href="" style="text-decoration: none; font-size: 13px; color: rgb(66, 225, 40);"> </a></div></noscript><script type="text/javascript" src="http://localtimes.info/clock.php?&cp1_Hex=42e128&cp2_Hex=585f69&cp3_Hex=000000&fwdt=200&ham=0&hbg=0&hfg=0&sid=0&mon=0&wek=0&wkf=0&sep=0&widget_number=1000"></script></div>
+
         </div>
 
         <!-- Menu -->
