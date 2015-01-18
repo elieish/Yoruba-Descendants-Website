@@ -6,7 +6,7 @@
     <div class="container">
         <h1 class="color-green pull-left">Our Contacts</h1>
         <ul class="pull-right breadcrumb">
-            <li><a href="index.html">Home</a> <span class="divider">/</span></li>
+            <li><a href="/">Home</a> <span class="divider">/</span></li>
             <li class="active">Contact</li>
         </ul>
     </div><!--/container-->
