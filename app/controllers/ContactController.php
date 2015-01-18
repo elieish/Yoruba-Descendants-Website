@@ -46,7 +46,7 @@ class ContactController extends BaseController {
 
             Mail::send('emails.contact', $data, function($message) use ($data,$emails)
             {
-                $message->from($data['email'], $data['name']);
+                $message->from('info@yorubadescendants.com');
                 foreach ($emails as $email) {
                    $message->to($email)->subject('Yoruba Descendants Contact Request');
                 }
