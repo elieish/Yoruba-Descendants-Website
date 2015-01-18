@@ -55,7 +55,7 @@ class ContactController extends BaseController {
 
             // redirect
             Session::flash('message', 'Message Sent Successful');
-            return View::make('contact.index');
+            return Redirect::to('contact');
         }
         else {
              Session::flash('error', 'Errors on the form,please resubmit');
