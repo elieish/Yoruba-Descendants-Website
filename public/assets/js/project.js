@@ -22,6 +22,10 @@
                 {
                     title: 'Celebration',
                     start: '2015-01-19'
+                },
+                {
+                    title: 'National Executive Meeting',
+                    start: '2015-01-24'
                 }
             ],
             eventClick: function(calEvent, jsEvent, view) {

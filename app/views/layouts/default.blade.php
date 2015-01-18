@@ -204,6 +204,8 @@
 <script type="text/javascript" src="assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
 <script type="text/javascript" src="assets/plugins/back-to-top.js"></script>
 <script type="text/javascript" src="assets/js/jquery.auderoFlashingText.js"></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
+<script type="text/javascript" src="assets/plugins/gmap/gmap.js"></script>
 
 <!-- JS Page Level -->
 <script type="text/javascript" src="assets/js/app.js"></script>
@@ -221,6 +223,17 @@
 
 <!-- JS Jquery Clock Plugin -->
 <script type="text/javascript" src="assets/plugins/jQuery-Clock-Plugin-master/jqClock.js"></script>
+
+
+<script type="text/javascript" src="assets/js/pages/contact.js"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function() {
+        App.init();
+        App.initSliders();
+        Contact.initMap();
+    });
+</script>
 
 
 </body>
