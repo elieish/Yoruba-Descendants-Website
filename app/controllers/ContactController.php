@@ -34,7 +34,6 @@ class ContactController extends BaseController {
                         'name'      =>  'required',
                         'email'     =>  'required|email',
                         'subject'   =>  'required',
-                        'phone'     =>  'required',
                         'message'   =>  'required'
         );
 

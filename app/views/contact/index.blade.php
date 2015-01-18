@@ -45,6 +45,12 @@
                     @if ($errors->has('email')) <p class="help-block color-red">{{ $errors->first('email') }}</p> @endif
                 </div>
 
+                <div class="@if ($errors->has('subject')) has-error @endif">
+                   <label>Email <span class="color-red">*</span></label>
+                    {{ Form::text('subject',null, array('class' =>'span7','id' =>'subject')) }}
+                    @if ($errors->has('subject')) <p class="help-block color-red">{{ $errors->first('subject') }}</p> @endif
+                </div>
+
                 <div class="@if ($errors->has('message')) has-error @endif">
                     <label>Message <span class="color-red">*</span></label>
                     {{ Form::textarea('message',null,array('class' =>'span7','id' =>'message')) }}
