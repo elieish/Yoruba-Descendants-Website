@@ -46,7 +46,7 @@
                 </div>
 
                 <div class="@if ($errors->has('subject')) has-error @endif">
-                   <label>Email <span class="color-red">*</span></label>
+                   <label>Subject <span class="color-red">*</span></label>
                     {{ Form::text('subject',null, array('class' =>'span7','id' =>'subject')) }}
                     @if ($errors->has('subject')) <p class="help-block color-red">{{ $errors->first('subject') }}</p> @endif
                 </div>
