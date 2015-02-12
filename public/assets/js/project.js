@@ -63,3 +63,21 @@
     $("#clock1").clock();
 
     });
+
+    var locations = window.location.href;
+    if (locations.indexOf("contact") > 1) {
+        App.init();
+        App.initSliders();
+        Contact.initMap();
+    };
+
+    $(document).on("click", ".open-AddBookDialog", function () {
+     var myId = $(this).data('id');
+     $("#myModalLabel").text(myId);
+     $("#chapter").val(myId);
+    });
+
+
+
+
+

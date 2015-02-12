@@ -218,23 +218,14 @@
 <!-- JS Currency Converter -->
 <script type="text/javascript" src="assets/plugins/currency_widget/js/jquery.currency_widget.js"></script>
 
-<!-- JS Project -->
-<script type="text/javascript" src="assets/js/project.js"></script>
-
 <!-- JS Jquery Clock Plugin -->
 <script type="text/javascript" src="assets/plugins/jQuery-Clock-Plugin-master/jqClock.js"></script>
 
 
 <script type="text/javascript" src="assets/js/pages/contact.js"></script>
 
-<script type="text/javascript">
-    jQuery(document).ready(function() {
-        App.init();
-        App.initSliders();
-        Contact.initMap();
-    });
-</script>
-
+<!-- JS Project -->
+<script type="text/javascript" src="assets/js/project.js"></script>
 
 </body>
 </html>

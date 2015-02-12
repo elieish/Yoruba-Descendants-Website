@@ -28,7 +28,6 @@ class ContactController extends BaseController {
         // Flashing Input to the session
         Input::flash();
 
-
         //Validation rules
         $rules      = array (
                         'name'      =>  'required',
