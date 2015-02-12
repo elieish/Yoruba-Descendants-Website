@@ -69,34 +69,57 @@
             </div>
 
 
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO OODUA LESOTHO</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO OODUA LESOTHO">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+
       </div><!--/span9-->
 
       <div class="span3">
-          <!-- Our Services -->
-            <div class="who margin-bottom-30">
-                <div class="headline"><h3>Our Services</h3></div>
-                <p>At vero eos et accusamus et iusto odio dign issimos ducimus qui blanditiis iusto.</p>
-                <ul class="unstyled">
-                    <li><a href="#"><i class="icon-desktop"></i>Vivamus imperdiet condimentum</a></li>
-                    <li><a href="#"><i class="icon-bullhorn"></i>Anim pariatur cliche squid</a></li>
-                    <li><a href="#"><i class="icon-globe"></i>Eget placerat felis consectetur</a></li>
-                    <li><a href="#"><i class="icon-group"></i>Condimentum diam eget placerat</a></li>
-                </ul>
-            </div>
 
           <!-- About Us -->
           <div class="headline"><h3>About Us</h3></div>
-            <p class="margin-bottom-30">At vero eos et acc usamus et iusto odio dign issimos ducimus atque corrupti quos dolores etrerum facilis est etenim a feugiat cupiditate non quos. <a class="read-more" href="#">Read more</a></p>
+            <p class="margin-bottom-30">
+                The first obvious answer to this question is the Yoruba are a nationality, numbering about 40 million, the majority of whom live in the South Western part of the state of Nigeria in West Africa.
+                <a class="read-more" href="#">Read more</a>
+            </p>
 
           <!-- Contact Us -->
             <div class="who margin-bottom-30">
                 <div class="headline"><h3>Contact Us</h3></div>
-                <p>Vero facilis est etenim a feugiat cupiditate non quos etrerum facilis.</p>
+                <p></p>
                 <ul class="unstyled">
-                    <li><a href="#"><i class="icon-home"></i>5B amus ED554, New York, US</a></li>
-                    <li><a href="#"><i class="icon-envelope-alt"></i>infp@example.com</a></li>
-                    <li><a href="#"><i class="icon-phone-sign"></i>1(222) 5x86 x97x</a></li>
-                    <li><a href="#"><i class="icon-globe"></i>http://www.example.com</a></li>
+                    <li><a href="#"><i class="icon-home"></i>Durban,KZN, SA</a></li>
+                    <li><a href="#"><i class="icon-envelope-alt"></i>info@yorubadescendants.com</a></li>
+                    <li><a href="#"><i class="icon-phone-sign"></i>(+27) 00 0000</a></li>
+                    <li><a href="#"><i class="icon-globe"></i>http://www.yorubadescendants.com</a></li>
                 </ul>
             </div>
         </div><!--/span3-->

@@ -54,7 +54,7 @@ class ChaptersController extends BaseController {
 
             // redirect
             Session::flash('message', 'Message Sent Successful');
-            return Redirect::to('chapters')->with_input();
+            return Redirect::to('chapters');
         }
         else {
              Session::flash('error', 'Errors on the form,please resubmit');
