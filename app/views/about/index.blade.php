@@ -18,7 +18,7 @@
     <div class="row-fluid">
         <div class="span9">
             <!-- Other Questions -->
-            <div class="headline"><h3>General Questions</h3></div>
+            <div class="headline"><h3>Who are we?</h3></div>
             <!-- Accardion -->
             <div class="accordion acc-home margin-bottom-40" id="accordion2">
                 <div class="accordion-group">
