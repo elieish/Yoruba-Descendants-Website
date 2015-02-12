@@ -66,7 +66,7 @@
             </div>
             <div class="span2">
                 <ul class="loginbar">
-                    <li><!-- i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i> --></a>
+                    <li><!-- i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i> -->
                         <ul class="nav-list">
                             <li class="active"><a href="#">English</a> <i class="icon-ok"></i></li>
                             <li><a href="#">Yoruba</a></li>
@@ -136,7 +136,7 @@
 
                         </li>
                         <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
-                            <a href="executive">Forum
+                            <a href="forum">Forum
 
                             </a>
 
