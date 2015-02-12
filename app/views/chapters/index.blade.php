@@ -27,16 +27,6 @@
             </div>
         @endif
           <div class="headline"><h3>Our Chapters</h3></div>
-            <div class="clients-page margin-bottom-20">
-              <a class="img-hover" href="#">
-                  <img src="assets/img/flags/botswana.jpeg" alt="" />
-
-              </a>
-                <p> ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA</p>
-                <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA">
-                  Contact us
-                </a>
-            </div>
 
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
@@ -68,37 +58,122 @@
                 </a>
             </div>
 
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
 
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
                   <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA ODUA DESCENDANTS CAPETOWN.SOUTH AFRICA</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA ODUA DESCENDANTS CAPETOWN.SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA PRETORIA,SOUTH AFRICA</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA PRETORIA,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA POLOKWANE,SOUTH AFRICA </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA POLOKWANE,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA PORT ELIZABETH,SOUTH AFRICA</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA PORT ELIZABETH,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA SECUNDA,SOUTH AFRICA</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA SECUNDA,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA VAAL-TRIANGLE,SOUTH AFRICA</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA VAAL-TRIANGLE,SOUTH AFRICA">
+                  Contact us
+                </a>
+            </div>
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/zimbabwe.jpeg" alt="" />
+              </a>
+                <p>EGBE OMO YORUBA ZIMBABWE </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA ZIMBABWE">
+                  Contact us
+                </a>
+            </div>
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/swaziland.jpeg" alt="" />
+              </a>
+                <p>NATIONAL ASSOCIATION OF YORUBA DESCENDANTS SWAZILAND</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="NATIONAL ASSOCIATION OF YORUBA DESCENDANTS SWAZILAND">
+                  Contact us
+                </a>
+            </div>
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/namibia.png" alt="" />
+              </a>
+                <p>OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI</p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI">
+                  Contact us
+                </a>
+            </div>
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/lesotho.png" alt="" />
               </a>
                 <p>EGBE OMO OODUA LESOTHO</p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO OODUA LESOTHO">
                   Contact us
                 </a>
             </div>
-
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
-                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+                  <img src="assets/img/flags/botswana.jpeg" alt="" />
+
               </a>
-                <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
-                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
+                <p> ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA</p>
+                <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA">
                   Contact us
                 </a>
             </div>
-
-            <div class="clients-page margin-bottom-20">
-              <a class="img-hover" href="#">
-                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
-              </a>
-                <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
-                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
-                  Contact us
-                </a>
-            </div>
-
 
       </div><!--/span9-->
 
