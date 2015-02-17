@@ -191,17 +191,18 @@
                 <div class="headline"><h3>Contact Us</h3></div>
                 <p></p>
                 <ul class="unstyled">
-                    <li><a href="#"><i class="icon-home"></i>Durban,KZN, SA</a></li>
                     <li><a href="#"><i class="icon-envelope-alt"></i>info@yorubadescendants.com</a></li>
-                    <li><a href="#"><i class="icon-phone-sign"></i>(+27) 00 0000</a></li>
                     <li><a href="#"><i class="icon-globe"></i>http://www.yorubadescendants.com</a></li>
                 </ul>
             </div>
         </div><!--/span3-->
     </div><!--/row-fluid-->
+    <!-- Modal -->
+
 </div><!--/container-->
 <!--=== End Content Part ===-->
-<!-- Modal -->
+
+
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -232,8 +233,8 @@
 
                   <div class="@if ($errors->has('message')) has-error @endif">
                       <label>Message <span class="color-red">*</span></label>
-                      {{ Form::textarea('message',null,array('class' =>'span4','id' =>'message')) }}
-                      @if ($errors->has('message')) <p class="help-block color-red">{{ $errors->first('message') }}</p> @endif
+                    <!--  {{ Form::textarea('messagetext',null,array('class' =>'span4','id' =>'messagetext')) }} -->
+                      @if ($errors->has('messagetext')) <p class="help-block color-red">{{ $errors->first('messagetext') }}</p> @endif
                   </div>
                   <button type="submit" class="btn-u">Send Message</button>
               </form>
@@ -242,6 +243,7 @@
 
   </div>
 </div>
+
 
 @stop
 

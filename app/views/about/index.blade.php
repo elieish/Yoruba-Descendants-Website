@@ -91,9 +91,7 @@ Those who argue that there was no consciousness of a common Yoruba identity unti
                 <div class="headline"><h3>Contact Us</h3></div>
                 <p></p>
                 <ul class="unstyled">
-                    <li><a href="#"><i class="icon-home"></i>Durban,KZN, SA</a></li>
                     <li><a href="#"><i class="icon-envelope-alt"></i>info@yorubadescendants.com</a></li>
-                    <li><a href="#"><i class="icon-phone-sign"></i>(+27) 00 0000</a></li>
                     <li><a href="#"><i class="icon-globe"></i>http://www.yorubadescendants.com</a></li>
                 </ul>
             </div>
