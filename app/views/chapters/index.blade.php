@@ -233,8 +233,8 @@
 
                   <div class="@if ($errors->has('message')) has-error @endif">
                       <label>Message <span class="color-red">*</span></label>
-                    <!--  {{ Form::textarea('messagetext',null,array('class' =>'span4','id' =>'messagetext')) }} -->
-                      @if ($errors->has('messagetext')) <p class="help-block color-red">{{ $errors->first('messagetext') }}</p> @endif
+                     {{ Form::textarea('message',null,array('class' =>'span4','id' =>'message','rows=5')) }}
+                      @if ($errors->has('message')) <p class="help-block color-red">{{ $errors->first('message') }}</p> @endif
                   </div>
                   <button type="submit" class="btn-u">Send Message</button>
               </form>
