@@ -36,6 +36,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA DURBAN IN SOUTH AFRICA">
                   Contact us
                 </a>
+                <a type="button">
+                  Activities
+                </a>
             </div>
 
             <div class="clients-page margin-bottom-20">
@@ -45,6 +48,9 @@
                 <p>EGBE OMO YORUBA FREE STATE IN SOUTH AFRICA </p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA FREE STATE IN SOUTH AFRICA">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
 
@@ -56,6 +62,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA JOHANNESBURG IN SOUTH AFRICA">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
 
             <div class="clients-page margin-bottom-20">
@@ -65,6 +74,9 @@
                 <p>EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA </p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA NELSPRUIT,SOUTH AFRICA">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
 
@@ -76,6 +88,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA ODUA DESCENDANTS CAPETOWN.SOUTH AFRICA">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
 
             <div class="clients-page margin-bottom-20">
@@ -86,6 +101,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA PRETORIA,SOUTH AFRICA">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
 
             <div class="clients-page margin-bottom-20">
@@ -95,6 +113,9 @@
                 <p>EGBE OMO YORUBA POLOKWANE,SOUTH AFRICA </p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA POLOKWANE,SOUTH AFRICA">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
 
@@ -107,6 +128,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA PORT ELIZABETH,SOUTH AFRICA">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
 
             <div class="clients-page margin-bottom-20">
@@ -116,6 +140,9 @@
                 <p>EGBE OMO YORUBA SECUNDA,SOUTH AFRICA</p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA SECUNDA,SOUTH AFRICA">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
 
@@ -127,6 +154,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA VAAL-TRIANGLE,SOUTH AFRICA">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
@@ -135,6 +165,9 @@
                 <p>EGBE OMO YORUBA ZIMBABWE </p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO YORUBA ZIMBABWE">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
             <div class="clients-page margin-bottom-20">
@@ -145,6 +178,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="NATIONAL ASSOCIATION OF YORUBA DESCENDANTS SWAZILAND">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
@@ -153,6 +189,9 @@
                 <p>OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI</p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
             <div class="clients-page margin-bottom-20">
@@ -163,6 +202,9 @@
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="EGBE OMO OODUA LESOTHO">
                   Contact us
                 </a>
+                 <a type="button">
+                  Activities
+                </a>
             </div>
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
@@ -172,6 +214,9 @@
                 <p> ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA</p>
                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="ASSOCIATION OF YORUBA DESCENDANTS IN BOTSWANA">
                   Contact us
+                </a>
+                 <a type="button">
+                  Activities
                 </a>
             </div>
 
@@ -237,6 +282,7 @@
                       @if ($errors->has('message')) <p class="help-block color-red">{{ $errors->first('message') }}</p> @endif
                   </div>
                   <button type="submit" class="btn-u">Send Message</button>
+
               </form>
         </div>
     </div>

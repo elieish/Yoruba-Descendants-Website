@@ -70,6 +70,10 @@
         App.initSliders();
         Contact.initMap();
     };
+    if (locations.indexOf("gallery") > 1) {
+       App.init();
+       App.initFancybox();
+    };
 
     $(document).on("click", ".open-AddBookDialog", function () {
      var myId = $(this).data('id');

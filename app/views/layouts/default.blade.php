@@ -24,6 +24,10 @@
     {{ HTML::style('assets/plugins/flexslider/flexslider.css') }}
     {{ HTML::style('assets/plugins/parallax-slider/css/parallax-slider.css') }}
     {{ HTML::style('assets/plugins/countdown/css/countdown.css') }}
+    {{ HTML::style('assets/css/img-hover-effect.css')}}
+    {{ HTML::style('assets/plugins/fancybox/source/jquery.fancybox.css') }}
+    {{ HTML::style('assets/css/effects.css')}}
+
 
     <!-- CSS Theme -->
     {{ HTML::style('assets/plugins/flexslider/flexslider.css') }}
@@ -186,6 +190,7 @@
 <script type="text/javascript" src="assets/js/modernizr.custom.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <!-- JS Implementing Plugins -->
+<script type="text/javascript" src="assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>
 <script type="text/javascript" src="assets/plugins/flexslider/jquery.flexslider-min.js"></script>
 <script type="text/javascript" src="assets/plugins/parallax-slider/js/modernizr.js"></script>
 <script type="text/javascript" src="assets/plugins/parallax-slider/js/jquery.cslider.js"></script>
