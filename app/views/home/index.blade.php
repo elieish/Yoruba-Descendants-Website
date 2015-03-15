@@ -60,11 +60,11 @@
             <blockquote class="hero-unify">
                 <p>We, the Yorubas in the Southern Africa, desiring to trust and create a common fellowship,
                 firmily and solemnly<br> resolve to:</p><br>
-                <ul class="unstyled">
-                    <li><i class="icon-ok color-green"></i>To unite our strength and efforts in promoting the unity of all Yoruba organizations</li>
-                    <li><i class="icon-ok color-green"></i>To coordinate and intensify our cooperation</li>
-                    <li><i class="icon-ok color-green"></i>To achieve better dialogue, understanding and unity of purpose</li>
-                    <li><i class="icon-ok color-green"></i>To strenghten our collaboration and establish new objectives and priorities for the promotion of our economic,social,cultural,educational and political development</li>
+                <ul class="">
+                    <li><i class=""></i>To unite our strength and efforts in promoting the unity of all Yoruba organizations</li>
+                    <li><i class=""></i>To coordinate and intensify our cooperation</li>
+                    <li><i class=""></i>To achieve better dialogue, understanding and unity of purpose</li>
+                    <li><i class=""></i>To strenghten our collaboration and establish new objectives and priorities for the promotion of our economic,social,cultural,educational and political development</li>
                 </ul>
                 <p>We hereby constiture National Association of Yoruba Descendants of Southern African(Egbe Omo Yoruba)</p>
             <small>National President<br>
