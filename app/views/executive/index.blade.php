@@ -180,6 +180,67 @@
                         <li>Chair any disciplinary sittings that may be constituted by the NEC.</li>
                     </ul>
                 </div>
+                <div class="secretary-general duties" style="display:none">
+                    <ul>
+                        <li>Assist President to run the day to day affairs of the Organization.</li>
+                        <li>Coordinate all administrative activities of the Organization. </li>
+                        <li>Work with and give secretarial support to the NEC to ensure the fulfilment of the goals and objectives of the Organization. </li>
+                        <li>Prepare an annual report on behalf of the NEC which shall be presented to the members at the annual NC or when demanded for by the NEC. </li>
+                        <li>Work closely with the President and Public Affairs Officer to ensure smooth communication with the Chapters so as to keep them fully informed of all activities and the positions of the Organization on matters of interests to the generality of the members of the Organization</li>
+                        <li>Produce minutes of all meetings of the NEC and NC. </li>
+                        <li>Convene any meetings on direction and or approval of the President; NC and NEC. </li>
+                        <li>Perform any other functions that may be assigned by the NEC.</li>
+                    </ul>
+                </div>
+                <div class="assistance-secretary-general duties" style="display:none">
+                    <ul>
+                        <li>Assist the Secretary-General day-to-day running of the affairs of the Organization. </li>
+                        <li>Take on any assignments as may be requested by the Secretary-General. </li>
+                        <li>Represent the office of the Secretary-General in the absence or incapacity of the Secretary-General. </li>
+                    </ul>
+                </div>
+                <div class="treasure duties" style="display:none">
+                    <ul>
+                        <li>Collect all funds on behalf of the Organization and deposit all such funds in the Organization’s bank account within two (2) working days from date of collection.</li>
+                        <li>Collect and receive all monies received from the Financial Advisor and deposit such funds in the bank account of the Organization within two (2) working days. </li>
+                        <li>Work closely with the Financial Advisor in performing his/her duties. </li>
+                    </ul>
+                </div>
+                <div class="financial-secretary duties" style="display:none">
+                    <ul>
+                        <li>Coordinate and manage the financial affairs of the Organization. </li>
+                        <li>Prepare annual budget and the quarterly financial reports on the status of and on-going financial transactions/activities of the Organization. </li>
+                        <li>Oversee the collections and recordings of all funds received and disbursed in conjunction with the National Treasurer in performing his/her duties.</li>
+                        <li>Collect all monies on behalf of the Organization in the absence of National Treasurer and handover such monies received to the National Treasurer within two (2) working days.</li>
+                        <li>Oversee all forms of fund raising activities of the Organization. </li>
+                        <li>Liaise with all Local Chapters to fulfil their financial obligations to the Organization.</li>
+                        <li>Perform any other functions and assignments as may be directed by the NEC</li>
+                    </ul>
+                </div>
+                <div class="pro duties" style="display:none">
+                    <ul>
+
+                    </ul>
+                </div>
+                <div class="legal-affairs duties" style="display:none">
+                    <ul>
+                        <li>Be responsible for overseeing all contracts, agreements and legal obligations pertaining to the Organization.</li>
+                        <li>Provide legal advice to the BDs and NEC on all matters involving the Organization</li>
+                        <li>Only legal practitioner shall be elected as Legal Affairs Advisor. </li>
+                    </ul>
+                </div>
+                 <div class="protocol duties" style="display:none">
+                    <ul>
+
+                    </ul>
+                </div>
+                <div class="youth-affairs duties" style="display:none">
+                    <ul>
+                        <li>Be responsible for youth affairs and shall chair any ad-hoc committees on youth matters.</li>
+                        <li>Report to the NEC the progress made on issues relating to the youth in the Organization. </li>
+                        <li>Carry out other duties that may, from time to time, be assigned to him/her by the NEC or the President as ratified NC. </li>
+                    </ul>
+                </div>
                 <br />
                 </div>
             </div>

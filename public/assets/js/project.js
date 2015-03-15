@@ -88,7 +88,6 @@
      $('.'+ id).show()
      var modal     = $(".bs-executive-modal-lg")
      modal.find('.modal-title').text(executive + ' DUTIES ')
-
     });
 
 
