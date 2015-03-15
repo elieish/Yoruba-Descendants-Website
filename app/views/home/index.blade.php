@@ -83,6 +83,11 @@
     <!-- //End Information Blokcs -->
     <div class="row-fluid margin-bottom-20">
         <div class="span7">
+            <div class="headline"><h3>Our Constitution</h3></div>
+              <a target="_blank" href="assets/img/constitution/constitution.pdf">
+
+                  <div class="text-block btn-u">Click to Download</div>
+              </a>
         </div>
         <div class="span5">
           <div class="headline"><h3>Currency Converter</h3></div>
