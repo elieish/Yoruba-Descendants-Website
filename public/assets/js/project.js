@@ -81,6 +81,16 @@
      $("#chapter").val(myId);
     });
 
+    $(document).on("click", ".executiveButton", function () {
+     $('.duties').hide()
+     var executive = $(this).data('executive')
+     var id        = $(this).data('id')
+     $('.'+ id).show()
+     var modal     = $(".bs-executive-modal-lg")
+     modal.find('.modal-title').text(executive + ' DUTIES ')
+
+    });
+
 
 
 
