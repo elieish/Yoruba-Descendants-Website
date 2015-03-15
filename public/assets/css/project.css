@@ -5,3 +5,7 @@
 #calendar .fc-event{
     box-shadow: 2px 2px 2px #706868;
 }
+
+.modal.fade {
+    top:28% !important;
+}
