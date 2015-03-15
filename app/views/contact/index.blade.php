@@ -65,9 +65,9 @@
             <!-- Contacts -->
             <div class="headline"><h3>Contacts</h3></div>
             <ul class="unstyled who margin-bottom-20">
-                <li><a href="#"><i class="icon-home"></i>Durban, KZN SA</a></li>
+                <li><a href="#"><i class="icon-home"></i>Southern Africa</a></li>
                 <li><a href="#"><i class="icon-envelope-alt"></i>info@yorubadescendants.com</a></li>
-                <li><a href="#"><i class="icon-phone-sign"></i>+(27) 00 000 0000</a></li>
+                <li><a href="#"><i class="icon-phone-sign"></i></a></li>
                 <li><a href="#"><i class="icon-globe"></i>http://www.yorubadescendants.com</a></li>
             </ul>
         </div><!--/span3-->
