@@ -118,7 +118,7 @@
             <div class="thumbnail-style">
                 <img src="assets/img/others/noimage.jpg" alt="" />
                 <h5><a>MISS TOYOSI AYENI</a> <small>(LEGAL AFFAIRS)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="LEGAL AFFAIRS" >DUTIES</a>
+                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="LEGAL AFFAIRS" data-id="legal-affairs">DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                     <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -219,7 +219,9 @@
                 </div>
                 <div class="pro duties" style="display:none">
                     <ul>
-
+                        <li>Establish significant contacts with members of the international, Southern Africa and Nigerian media establishments in dissemination of the core values and the activities of the Organization through media chat, information bulletins and press releases. </li>
+                        <li>Organises news conferences and write public statements and opinions on behalf of the Organization with the position of the members during National Convention r as ratified by the NEC.</li>
+                        <li>Be the Editor-in-Chief of the Organization’s newsletters and other publications. </li>
                     </ul>
                 </div>
                 <div class="legal-affairs duties" style="display:none">
