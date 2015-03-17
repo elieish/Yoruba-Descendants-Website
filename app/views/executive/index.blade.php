@@ -32,7 +32,7 @@
         </li>
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
+                <img src="assets/img/others/vicepresident.png" alt="" />
                 <h5><a>MR.SEYI DENNIS AKINLEYE</a> <small>NATIONAL VICE PRESIDENT</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL VICE PRESIDENT" data-id="national-vice-president" >DUTIES</a>
                 <ul class="unstyled inline team">
