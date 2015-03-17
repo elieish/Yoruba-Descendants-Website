@@ -80,7 +80,7 @@
         </li>
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
+                <img src="assets/img/others/financialsecretary.png" alt="" />
                 <h5><a>MR.ADETOKUNBO KOTOYE</a> <small>(FINANCIAL SECRETARY)</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="FINANCIAL SECRETARY" data-id="financial-secretary" >DUTIES</a>
                 <ul class="unstyled inline team">
@@ -92,7 +92,7 @@
         </li>
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
+                <img src="assets/img/others/pro.png" alt="" />
                 <h5><a>DR. OLUSOLA AGBENIYI</a> <small>(PRO)</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="PRO" data-id="pro" >DUTIES</a>
                 <ul class="unstyled inline team">
@@ -117,8 +117,8 @@
          <li class="span3">
             <div class="thumbnail-style">
                 <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MISS TOYOSI AYENI</a> <small>(LEGAL AFFAIRS)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="LEGAL AFFAIRS" data-id="legal-affairs">DUTIES</a>
+                <h5><a>MS OLUTOYOSI AYENI</a> <small>(WOMAN LEADER)</small></h5>
+                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="WOMAN LEADER" data-id="legal-affairs">DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
                     <li><a href="#"><i class="icon-twitter"></i></a></li>
@@ -129,7 +129,7 @@
         <li class="span3">
             <div class="thumbnail-style">
                 <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MR.ADESINA LUKMON ADEBOWALE</a> <small>(PROTOCOL)</small></h5>
+                <h5><a>PRINCE ADESINA LOOKMAN ADEBOWALE</a> <small>(PROTOCOL)</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="PROTOCOL" data-id="protocol" >DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -175,6 +175,7 @@
                 </div>
                 <div class="national-vice-president duties" style="display:none">
                     <ul>
+                        <li>The National Vice-President shall assist the National President in the day-to-day running of the Organization. In the absence of the National President, he takes charge of the administration of the Organization with all the full powers thereof subject to the approval of two-thirds majority of the NEC.</li>
                         <li>Perform all duties that may be assigned to him by the National President.</li>
                         <li>Assist the National President and work with other members of NEC to ensure smooth-running of the Organization.</li>
                         <li>Chair any disciplinary sittings that may be constituted by the NEC.</li>
@@ -241,6 +242,15 @@
                         <li>Be responsible for youth affairs and shall chair any ad-hoc committees on youth matters.</li>
                         <li>Report to the NEC the progress made on issues relating to the youth in the Organization. </li>
                         <li>Carry out other duties that may, from time to time, be assigned to him/her by the NEC or the President as ratified NC. </li>
+                    </ul>
+                </div>
+                 <div class="woman-leader duties" style="display:none">
+                    <ul>
+                        <li>Be responsible for identifying, locating and recruiting Yoruba Women within South Africa.</li>
+                        <li>Be responsible for organizing and mobilizing Yoruba women in the Organization for active involvement and participation in activities of the Organization</li>
+                        <li>Chair all standing or ad hoc committees that may be constituted on women matters subject to the provisions of the constitution</li>
+                        <li>Shall advice the President and the NEC on women affairs or matters.</li>
+                        <li>Carry out other duties that may, from time to time, be assigned to her by the NEC or the President as ratified by the NEC or NC</li>
                     </ul>
                 </div>
                 <br />
