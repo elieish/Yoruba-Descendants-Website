@@ -60,28 +60,7 @@
 
 
         <div class="row-fluid">
-            <div class="span4">
-                <ul class="loginbar">
-                    <li><a href="mailto:info@yorubadescendats.com"><i class="icon-envelope-alt"></i> info@yorubadescendants.com</a></li>
-                </ul>
-            </div>
-            <div class="span6 demo">
-                NATIONAL ASSOCIATION OF YORUBA DESCENDANTS SOUTHERN AFRICA
-            </div>
-            <div class="span2">
-                <ul class="loginbar">
-                    <li><!-- i class="icon-globe"></i><a>Languages <i class="icon-sort-up"></i> -->
-                        <ul class="nav-list">
-                            <li class="active"><a href="#">English</a> <i class="icon-ok"></i></li>
-                            <li><a href="#">Yoruba</a></li>
-                        </ul>
-                    </li>
-                    <li class="devider">&nbsp;</li>
-                    <li><a href="page_faq.html" class="login-btn">Help</a></li>
-                    <li class="devider">&nbsp;</li>
-                    <li><a href="login" class="login-btn">Login</a></li>
-                </ul>
-            </div>
+             <img src="assets/img/logos/5.jpg" alt="" >
         </div>
     </div>
 </div><!--/top-->
@@ -92,11 +71,11 @@
     <div class="container">
         <!-- Logo -->
         <div class="">
-            <div style="margin: 15px 0px 0px; display: inline-block; text-align: center; width: 200px;"><noscript><div style="display: inline-block; padding: 2px 4px; margin: 0px 0px 5px; border: 1px solid rgb(204, 204, 204); text-align: center; background-color: rgb(88, 95, 105);"><a href="" style="text-decoration: none; font-size: 13px; color: rgb(66, 225, 40);"> </a></div></noscript><script type="text/javascript" src="http://localtimes.info/clock.php?&cp1_Hex=42e128&cp2_Hex=585f69&cp3_Hex=000000&fwdt=200&ham=0&hbg=0&hfg=0&sid=0&mon=0&wek=0&wkf=0&sep=0&widget_number=1000"></script></div>
+            <img src="" alt="" >
         </div>
 
         <!-- Menu -->
-        <div class="navbar">
+        <div class="navbar" style="background-image:url('assets/img/logos/3.png')">
             <div class="navbar-inner">
                 <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
                     <span class="icon-bar"></span>

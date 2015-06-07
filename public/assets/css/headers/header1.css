@@ -2,7 +2,7 @@
 ------------------------------------*/
 .top {
 	padding:7px 0 8px;
-	background-color: #72c02c;
+	background-color: #585f69;
 }
 
 .loginbar {
@@ -351,3 +351,5 @@
 .fancybox-overlay.fancybox-overlay-fixed {
 	z-index:9999;
 }
+
+
