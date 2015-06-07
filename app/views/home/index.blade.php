@@ -7,10 +7,7 @@
         <div class="span4">
             <div id="myCarousel" class="carousel slide">
                 <div class="carousel-inner">
-                  <div class="item active">
-                    <img src="assets/img/carousel/7.png" alt="" />
 
-                  </div>
                   <div class="item">
                     <img src="assets/img/carousel/2.jpg" alt="" />
                     <div class="carousel-caption">
