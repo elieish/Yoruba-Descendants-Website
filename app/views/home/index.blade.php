@@ -55,7 +55,7 @@
         <!-- Who We Are -->
         <div class="span7">
             <div class="headline"><h3>Ekaabo Welcome</h3></div>
-             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/1.jpg" alt="" />
+             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/4.jpg" alt="" />
 
             <blockquote class="hero-unify">
                 <p>We, the Yorubas in the Southern Africa, desiring to trust and create a common fellowship,

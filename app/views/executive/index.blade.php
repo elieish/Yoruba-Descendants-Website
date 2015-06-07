@@ -20,7 +20,7 @@
     <ul class="thumbnails team">
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
+                <img src="assets/img/others/4.jpg" alt="" />
                 <h5><a>PROF AKIN ANTHONY BAMIGBOYE</a> <small>NATIONAL PRESIDENT</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL PRESIDENT" data-id="national-executive">DUTIES</a>
                 <ul class="unstyled inline">
