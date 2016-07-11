@@ -109,8 +109,8 @@
                          <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
                             <a href="executive">National Executive</a>
                         </li>
-                        <li {{ (Request::is('forum') ? 'class="active"' : '') }}>
-                            <a href="forum">Forum</a>
+                        <li {{ (Request::is('announcement') ? 'class="active"' : '') }}>
+                            <a href="announcement">Announcement</a>
                         </li>
                     </ul>
                     <div class="search-open">

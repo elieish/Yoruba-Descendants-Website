@@ -26,7 +26,7 @@ Route::controller('login', 'LoginController');
 
 Route::controller('executive', 'ExecutiveController');
 
-Route::controller('forum', 'ForumController');
+Route::controller('announcement', 'ForumController');
 
 Route::controller('/', 'HomeController');
 

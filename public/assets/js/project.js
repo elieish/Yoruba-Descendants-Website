@@ -25,7 +25,7 @@
                 },
                 {
                     title: 'National Executive Meeting',
-                    start: '2015-01-24'
+                    start: '2016-07-23'
                 }
             ],
             eventClick: function(calEvent, jsEvent, view) {

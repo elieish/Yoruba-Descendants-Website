@@ -6,7 +6,7 @@
     <!-- Coming Soon Content -->
     <div class="row-fluid">
         <div class="span12">
-            <h1>Coming Soon!</h1>
+            <img src="assets/img/logos/announcement.jpg" alt="" >
         </div>
     </div>
 
