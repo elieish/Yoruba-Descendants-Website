@@ -158,6 +158,32 @@
                   Activities
                 </a>
             </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>OODUA PEOPLE OF TRANSKEI </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="TRANSKEI,SOUTH AFRICA">
+                  Contact us
+                </a>
+                 <a type="button">
+                  Activities
+                </a>
+            </div>
+
+            <div class="clients-page margin-bottom-20">
+              <a class="img-hover" href="#">
+                  <img src="assets/img/flags/southafrica.jpeg" alt="" />
+              </a>
+                <p>OODUA PEOPLE OF MTHATHA </p>
+                 <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="MTHATHA ,SOUTH AFRICA">
+                  Contact us
+                </a>
+                 <a type="button">
+                  Activities
+                </a>
+            </div>
             <div class="clients-page margin-bottom-20">
               <a class="img-hover" href="#">
                   <img src="assets/img/flags/zimbabwe.jpeg" alt="" />
@@ -186,7 +212,7 @@
               <a class="img-hover" href="#">
                   <img src="assets/img/flags/namibia.png" alt="" />
               </a>
-                <p>OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI</p>
+                <p>OODUA PEOPLE OF NAMIBIA</p>
                  <a type="button" class="open-AddBookDialog btn-u" data-toggle="modal" data-target="#myModal" data-id="OODUA PEOPLE OF NAMIBIA OODUA COMMUNITY IN  TRANSKEI">
                   Contact us
                 </a>

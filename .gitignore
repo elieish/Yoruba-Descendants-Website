@@ -6,4 +6,6 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
-p/bower_components
+./bower_components
+./phpintel
+
