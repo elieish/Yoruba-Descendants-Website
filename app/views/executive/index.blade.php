@@ -18,82 +18,61 @@
     <!-- Meer Our Team -->
     <div class="headline"><h3>Meet Our National Executive</h3></div>
     <ul class="thumbnails team">
+        <div class="row">
+            <li class="span3">
+                <div class="thumbnail-style">
+                    <img src="assets/img/others/president.jpg" alt="" />
+                    <h5><a>HON. SEYI AKINLEYE</a> <small>NATIONAL PRESIDENT</small></h5>
+                    <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL PRESIDENT" data-id="national-executive">DUTIES</a>
+                    <ul class="unstyled inline">
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="span3">
+                <div class="thumbnail-style">
+                    <img src="assets/img/others/vicepresident.jpg" alt="" />
+                    <h5><a>HON. SIJI OLORUNSOLA</a> <small>NATIONAL VICE PRESIDENT</small></h5>
+                    <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL VICE PRESIDENT" data-id="national-vice-president" >DUTIES</a>
+                    <ul class="unstyled inline team">
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="span3">
+                <div class="thumbnail-style">
+                    <img src="assets/img/others/generalsecretary.jpg" alt="" />
+                    <h5><a>HON. AJILORE OLASUNKANMI</a> <small>GENERAL SECRETARY</small></h5>
+                    <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="SECRETARY GENERAL" data-id="secretary-general">DUTIES</a>
+                    <ul class="unstyled inline team">
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="span3">
+                <div class="thumbnail-style">
+                    <img src="assets/img/others/treasurer.jpg" alt="" />
+                    <h5><a>HON. OMIWOLE OMIKUNLE</a> <small>TREASURER</small></h5>
+                    <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="ASSISTANCE SECRETARY GENERAL" data-id="assistance-secretary-general" >DUTIES</a>
+                    <ul class="unstyled inline team">
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                    </ul>
+                </div>
+            </li>
+        </div>
+        
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/president.jpg" alt="" />
-                <h5><a>HON. SEYI AKINLEYE</a> <small>NATIONAL PRESIDENT</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL PRESIDENT" data-id="national-executive">DUTIES</a>
-                <ul class="unstyled inline">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/vicepresident.jpg" alt="" />
-                <h5><a>HON. SIJI OLORUNSOLA</a> <small>NATIONAL VICE PRESIDENT</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL VICE PRESIDENT" data-id="national-vice-president" >DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/generalsecretary.jpg" alt="" />
-                <h5><a>HON. AJILORE OLASUNKANMI</a> <small>GENERAL SECRETARY</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="SECRETARY GENERAL" data-id="secretary-general">DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MRS.MOJIROLA OSOBA</a> <small>(ASSISTANCE SECRETARY GENERAL)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="ASSISTANCE SECRETARY GENERAL" data-id="assistance-secretary-general" >DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-         <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MR.OMIKUNLE OMIWOLE</a> <small>(TREASURER)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="TREASURER" data-id="treasure" >DUTIES</a>
-                <ul class="unstyled inline">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/financialsecretary.png" alt="" />
-                <h5><a>MR.ADETOKUNBO KOTOYE</a> <small>(FINANCIAL SECRETARY)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="FINANCIAL SECRETARY" data-id="financial-secretary" >DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/pro.png" alt="" />
-                <h5><a>DR. OLUSOLA AGBENIYI</a> <small>(PRO)</small></h5>
+                <img src="assets/img/others/youthleader.jpg" alt="" />
+                <h5><a>HON. ORIADE BELLO</a> <small>YOUTH LEADER</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="PRO" data-id="pro" >DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -102,10 +81,12 @@
                 </ul>
             </div>
         </li>
+      
+       
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>DR. OLUFEMI SOYEJU</a> <small>(LEGAL AFFAIRS)</small></h5>
+                <img src="assets/img/others/womanleader.jpg" alt="" />
+                <h5><a>HON. MRS OLUSOLA WILLIAMS</a> <small>WOMAN LEADER</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="LEGAL AFFAIRS" data-id="legal-affairs" >DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -116,8 +97,8 @@
         </li>
          <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MS OLUTOYOSI AYENI</a> <small>(WOMAN LEADER)</small></h5>
+                <img src="assets/img/others/publicrelationofficer.jpg" alt="" />
+                <h5><a>HON. OLAWALE OLALEKAN ADEWARA </a> <small>PUBLIC RELATION OFFICER</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="WOMAN LEADER" data-id="legal-affairs">DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -126,30 +107,7 @@
                 </ul>
             </div>
         </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>PRINCE ADESINA LOOKMAN ADEBOWALE</a> <small>(PROTOCOL)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="PROTOCOL" data-id="protocol" >DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
-        <li class="span3">
-            <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>HON.ELUGBADEBO TA</a> <small>(YOUTH AFFAIRS)</small></h5>
-                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="YOUTH AFFAIRS" data-id="youth-affairs">DUTIES</a>
-                <ul class="unstyled inline team">
-                    <li><a href="#"><i class="icon-facebook"></i></a></li>
-                    <li><a href="#"><i class="icon-twitter"></i></a></li>
-                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
-                </ul>
-            </div>
-        </li>
+       
 
     </ul><!--/thumbnails-->
     <!-- //End Meer Our Team -->
