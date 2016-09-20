@@ -20,8 +20,8 @@
     <ul class="thumbnails team">
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/4.jpg" alt="" />
-                <h5><a>PROF AKIN ANTHONY BAMIGBOYE</a> <small>NATIONAL PRESIDENT</small></h5>
+                <img src="assets/img/others/president.jpg" alt="" />
+                <h5><a>HON. SEYI AKINLEYE</a> <small>NATIONAL PRESIDENT</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL PRESIDENT" data-id="national-executive">DUTIES</a>
                 <ul class="unstyled inline">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -32,8 +32,8 @@
         </li>
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/vicepresident.png" alt="" />
-                <h5><a>MR.SEYI DENNIS AKINLEYE</a> <small>NATIONAL VICE PRESIDENT</small></h5>
+                <img src="assets/img/others/vicepresident.jpg" alt="" />
+                <h5><a>HON. SIJI OLORUNSOLA</a> <small>NATIONAL VICE PRESIDENT</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="NATIONAL VICE PRESIDENT" data-id="national-vice-president" >DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -44,8 +44,8 @@
         </li>
         <li class="span3">
             <div class="thumbnail-style">
-                <img src="assets/img/others/noimage.jpg" alt="" />
-                <h5><a>MR.GBEMINIYI OLADIMEJI</a> <small>(SECRETARY  GENERAL)</small></h5>
+                <img src="assets/img/others/generalsecretary.jpg" alt="" />
+                <h5><a>HON. AJILORE OLASUNKANMI</a> <small>GENERAL SECRETARY</small></h5>
                 <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="SECRETARY GENERAL" data-id="secretary-general">DUTIES</a>
                 <ul class="unstyled inline team">
                     <li><a href="#"><i class="icon-facebook"></i></a></li>

@@ -90,27 +90,33 @@
                         <li {{ (Request::is('about') ? 'class="active"' : '') }}>
                             <a href="about">About Us</a>
                         </li>
-                        <li {{ (Request::is('news') ? 'class="active"' : '') }}>
-                            <a href="news">News
-                            </a>
+                        <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
+                            <a href="executive">National Executive</a>
                         </li>
                         <li {{ (Request::is('chapters') ? 'class="active"' : '') }}>
                             <a href="chapters">Chapters
                             </a>
                         </li>
-
+                          <li {{ (Request::is('#') ? 'class="active"' : '') }}>
+                            <a href="events">Events
+                            </a>
+                        </li>
+                    
                         <li {{ (Request::is('gallery') ? 'class="active"' : '') }}>
                             <a href="gallery">Gallery</a>
                         </li>
-                        <li {{ (Request::is('contact') ? 'class="active"' : '') }}>
+                        <li {{ (Request::is('#') ? 'class="active"' : '') }}>
+                            <a href="Forum">Forum
+                            </a>
+                        </li> 
+                         <li {{ (Request::is('news') ? 'class="active"' : '') }}>
+                            <a href="news">Forum
+                            </a>
+                        </li> 
+                     
+                         <li {{ (Request::is('contact') ? 'class="active"' : '') }}>
                             <a href="contact">Contact</a>
 
-                        </li>
-                         <li {{ (Request::is('executive') ? 'class="active"' : '') }}>
-                            <a href="executive">National Executive</a>
-                        </li>
-                        <li {{ (Request::is('announcement') ? 'class="active"' : '') }}>
-                            <a href="announcement">Announcement</a>
                         </li>
                     </ul>
                     <div class="search-open">

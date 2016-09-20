@@ -51,8 +51,8 @@
     <div class="row-fluid margin-bottom-20">
         <!-- Who We Are -->
         <div class="span7">
-            <div class="headline"><h3>Ekaabo Welcome</h3></div>
-             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/4.jpg" alt="" />
+            <div class="headline"><h3><b>Ekaabo Welcome</b></h3></div>
+             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/President.JPG" alt="" />
 
             <blockquote class="hero-unify">
                 <p>We, the Yorubas in the Southern Africa, desiring to trust and create a common fellowship,
@@ -63,9 +63,9 @@
                     <li><i class=""></i>To achieve better dialogue, understanding and unity of purpose</li>
                     <li><i class=""></i>To strenghten our collaboration and establish new objectives and priorities for the promotion of our economic,social,cultural,educational and political development</li>
                 </ul>
-                <p>We hereby constiture National Association of Yoruba Descendants of Southern African(Egbe Omo Yoruba)</p>
+                <p>We hereby constiture National Association of Yoruba Descendants of Southern African(Egbe Omo Yoruba)</p><br>
             <small>National President<br>
-                   Prof . Akin Bomigboye</small>
+                   HON. SEYI AKINLEYE</small>
             </blockquote>
         </div><!--/span8--
 
