@@ -24,7 +24,7 @@
                     start: '2015-01-19'
                 },
                 {
-                    title: 'National Executive Inauguration,
+                    title: 'National Executive Inauguration',
                     start: '2016-07-23'
                 }
             ],
