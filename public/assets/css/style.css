@@ -1867,3 +1867,9 @@ i.style-switcher-btn-option:hover {
 	text-align: center !important;
 	font-weight: bold !important;
 }
+
+.carousel-caption {
+
+	background:none !important;
+
+}

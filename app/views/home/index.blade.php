@@ -37,22 +37,10 @@
 <div class="container">
     <!-- Information Blokcs -->
     <div class="row-fluid margin-bottom-20">
-        <!-- Who We Are -->
-        <div class="span7">
-            <div class="headline"><h3><b>National President</b></h3></div>
-             <p><img class="pull-left lft-img-margin img-width-200" src="assets/img/people/President.JPG" alt="" />
-
-            <blockquote class="hero-unify">
-              
-              
-               
-            <small>National President<br>
-                   HON. SEYI AKINLEYE</small>
-            </blockquote>
-        </div><!--/span8--
+      
 
         <!-- Latest Shots -->
-        <div class="span5">
+        <div class="span12">
             <div class="headline"><h3>Upcoming Events</h3></div>
             <div id='calendar'></div>
 

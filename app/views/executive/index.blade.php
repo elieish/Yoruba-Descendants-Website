@@ -107,6 +107,17 @@
                 </ul>
             </div>
         </li>
+           <div class="thumbnail-style">
+                <img src="assets/img/others/noimage.jpg" alt="" />
+                <h5><a>HON. EKUNDAYO ADEKUNLE PETERRA </a> <small>WELFARE OFFICER</small></h5>
+                <a type='button' class="executiveButton btn-u" data-toggle="modal" data-target=".bs-executive-modal-lg" data-executive="WOMAN LEADER" data-id="legal-affairs">DUTIES</a>
+                <ul class="unstyled inline team">
+                    <li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-google-plus"></i></a></li>
+                </ul>
+            </div>
+        </li>
        
 
     </ul><!--/thumbnails-->
